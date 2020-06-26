@@ -9,4 +9,5 @@ as a medium for documentation of tutorials or explorations that I have done, whi
 -   Docker-Node-PM2-NGINX
 -   ELK-metricbeat
 -   Koneksi GSQL ke VMs - VPC Mode
+-   Cloud Build with cache for faster build
 
