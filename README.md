@@ -10,4 +10,4 @@ as a medium for documentation of tutorials or explorations that I have done, whi
 -   ELK-metricbeat
 -   Koneksi GSQL ke VMs - VPC Mode
 -   Cloud Build with cache for faster build
-
+-   Autoscaling VMs on GCP
