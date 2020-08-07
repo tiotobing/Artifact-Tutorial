@@ -11,3 +11,4 @@ as a medium for documentation of tutorials or explorations that I have done, whi
 -   Koneksi GSQL ke VMs - VPC Mode
 -   Cloud Build with cache for faster build
 -   Autoscaling VMs on GCP
+-   Setup Github Action to Build, Push Docker Image to GCR and Deploy to Google Compute Engine
